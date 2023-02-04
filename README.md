@@ -1,9 +1,9 @@
 <h1 align="center">FiveM Weapons Edit 🔫</h1>
 
 
-## [Español]()
+### [Español]()
 
-## [English]()
+### [English]()
 
 ---
 
@@ -11,7 +11,7 @@
 
 Para poder editar las texturas como el modelo 3D primero necesitaremos algun sowftare de visionado. En este caso el más conocido y mas facil de usar es..
 
-## [Open IV](https://openiv.com/)
+### [Open IV](https://openiv.com/)
 
 ---
 <br>
@@ -25,11 +25,12 @@ Para empezar nos meteremos en el area de trabajo del **OpenIV**, abriendo el pro
 
 ![open image](assets/img/img1.png))
 
-↓ Esta es la area de trabajo ↓
+
 
 ⚠ No edites estos archivos, ya que son del GTA V base.
 
-![open image](assets/img/img2.png))
+↓ Esta es la area de trabajo ↓
+![open image](assets/img/img2.png)
 
 Lo siguiente es entrar en la carte de los mods de FiveM
 
